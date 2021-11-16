@@ -1,3 +1,6 @@
+#source articles: https://medium.com/@lmayrandprovencher/building-an-autoencoder-with-tied-weights-in-keras-c4a559c529a2
+#source articles: https://towardsdatascience.com/autoencoder-on-dimension-reduction-100f2c98608c
+
 import tensorflow as tf
 from tensorflow import keras
 from tensorflow.keras.layers import Dense, Flatten, Reshape 
